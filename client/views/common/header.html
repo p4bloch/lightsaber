@@ -1,7 +1,7 @@
 <template name="header">
   <div class="header">
     <h1>Lightsaber</h1>
-    <ul>
+    <nav>
       <li><a href="{{pathFor 'homepage'}}">Homepage</a></li>
       <li><a href="{{pathFor 'content'}}">Content page</a></li>
       <li><a href="{{pathFor 'items'}}">Items</a></li>
@@ -12,7 +12,7 @@
         <li><a href="{{pathFor 'signup'}}">Sign Up</a></li>
         <li><a href="{{pathFor 'login'}}">Log In</a></li>
       {{/if}}
-    </ul>
+    </nav>
   </div>
   <hr/>
   <div class="messages">
