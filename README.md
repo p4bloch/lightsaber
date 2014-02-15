@@ -21,8 +21,5 @@ mrt
 
 Here is an [interactive and updated mockup](https://www.flinto.com/p/7a2b99f0)  (built using the awesome [flinto](https://www.flinto.com) prototyping app)
 
-https://www.flinto.com/p/7a2b99f0
-
-
 ## Credits
 Based on [SachaG/Void](https://github.com/SachaG/Void)
