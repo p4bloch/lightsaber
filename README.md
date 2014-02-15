@@ -3,6 +3,8 @@ lightsaber
 
 An elegant stack to ship civic apps that are mobile and open
 
+Demo [lightsaber.meteor.com](http://lightsaber.meteor.com)
+
 ## Setup
 
 If you already have Meteor and [Meteorite](https://github.com/oortcloud/meteorite/), you are ready to go. Just clone it locally, run it with `mrt`, and start coding!
